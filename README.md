@@ -2,9 +2,9 @@
 
 # Jefferson Wagner
 
-### SRE • Observability Engineer • Software Engineer
+### Observability Engineer • Software Engineer
 
-Profissional de tecnologia atuando na interseção entre **confiabilidade, observabilidade, cloud e engenharia de software**, com foco em manter serviços críticos disponíveis, mensuráveis, escaláveis e preparados para evolução.
+Profissional de tecnologia atuando na interseção entre **Observabilidade, Cloud e Desenvolvimento de Software**, com foco em manter serviços críticos disponíveis, mensuráveis, escaláveis e preparados para evolução.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson%20Wagner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jwti/)
 [![GitHub](https://img.shields.io/badge/GitHub-whawany-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whawany)
@@ -15,9 +15,9 @@ Profissional de tecnologia atuando na interseção entre **confiabilidade, obser
 
 ## 👨‍💻 Sobre mim
 
-Atualmente atuo como **Analista de Observabilidade com viés em SRE na Smart Fit**, apoiando a confiabilidade operacional de serviços digitais, o gerenciamento de incidentes, a padronização da monitoração e a construção de dashboards para análise técnica e tomada de decisão.
+Atualmente atuo como **Analista de Observabilidade na Smart Fit**, apoiando a confiabilidade operacional de serviços digitais, o gerenciamento de incidentes, a padronização da monitoração e a construção de dashboards para análise técnica e tomada de decisão.
 
-Também trabalho como **Engenheiro de Software Júnior na NeutroCarbon Ecologistics**, contribuindo para a evolução de funcionalidades, correção de falhas, melhoria de performance, qualidade de código e evolução da arquitetura da plataforma.
+Também trabalho como **Engenheiro de Software na NeutroCarbon Ecologistics**, contribuindo para a evolução de funcionalidades, correção de falhas, melhoria de performance, qualidade de código e evolução da arquitetura da plataforma.
 
 Minha trajetória reúne experiências em **observabilidade full stack, infraestrutura cloud e on-premises, desenvolvimento de software, automação, FinOps e suporte técnico de ambientes críticos**.
 
