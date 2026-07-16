@@ -32,7 +32,7 @@ SRE e Observabilidade
 ├── Padronização e governança de monitoração
 └── Análise de custos e comportamento dos sistemas
 
-Engenharia de Software
+Desenvolvimento de Software
 ├── Evolução e manutenção de aplicações
 ├── Correção de falhas e melhoria de performance
 ├── Revisão e melhoria contínua do código
