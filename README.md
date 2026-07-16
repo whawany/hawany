@@ -121,14 +121,9 @@ Cloud e Infraestrutura
 - Arquitetura e qualidade de software.
 - Inteligência Artificial aplicada a desenvolvimento e operações.
 
-## 📈 Estatísticas do GitHub
+## 🚀 Perfil no GitHub
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=whawany&show_icons=true&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub de Jefferson Wagner" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whawany&layout=compact&locale=pt-br&hide_border=true" alt="Linguagens mais utilizadas" />
-
-</div>
+Meus repositórios registram estudos e projetos relacionados a **engenharia de software, DevOps, cloud, automação e observabilidade**. As contribuições, linguagens e atividades podem ser consultadas diretamente nas seções nativas do GitHub.
 
 ## 🤝 Contato
 
